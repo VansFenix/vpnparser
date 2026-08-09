@@ -1,5 +1,13 @@
 {
-  "working": 3,
-  "total": 3,
-  "uploaded_at": "2026-08-09 14:43:36"
+  "checked_at": "2026-08-09 15:23:00",
+  "total": 3529,
+  "working": 6,
+  "by_protocol": {
+    "vless": 5
+  },
+  "by_country": {
+    "Германия": 2,
+    "Нидерланды": 3
+  },
+  "uploaded_at": "2026-08-09 15:23:00"
 }
