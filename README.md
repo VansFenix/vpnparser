@@ -2,11 +2,18 @@
 
 Автоматический сбор и проверка VPN-конфигов.
 
-- Обновлено: **2026-08-09 14:43:36**
-- Всего конфигов: **3**
-- Работает: **3**
+- Обновлено: **2026-08-09 15:23:00**
+- Всего конфигов: **6**
+- Работает: **6**
 
 ## Статистика
+
+**По протоколам:**
+- `vless`: 5
+
+**По странам (топ-10):**
+- Нидерланды: 3
+- Германия: 2
 
 ## Подписка
 
@@ -14,6 +21,9 @@ Base64-подписка: `configs_base64.txt` (скопируйте содерж
 
 ## Конфиги
 
-1. `vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.57.143:443?type=tcp&headerType=none&security=reality&encryption=none&sni=site.skorostnet.space&fp=firefox&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&flow=xtls-rprx-vision#🇵🇱`
-2. `vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@2.57.242.77:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl07.skorostnet.space&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#🇩🇪`
-3. `vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@ddc-akn.astralweb.tech:443?type=tcp&headerType=none&security=tls&encryption=none&sni=ddc-akn.astralweb.tech&insecure=0#🇫🇮`
+1. `Приятного использования`
+2. `vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@185.238.191.155:443?security=reality&encryption=none&sni=de-cdn.ru&fp=firefox&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&sid=f7d0420b8ab26060&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER`
+3. `vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.105.54:13868?security=reality&encryption=none&sni=amd.com&fp=firefox&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&sid=e852dc&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER`
+4. `vless://a1022d47-2417-4489-b7e0-b0febcc7a8ad@37.49.227.39:443?security=reality&encryption=none&sni=nlconverter.medusafree.com&fp=firefox&pbk=fpxKKlBa95o_PRkeNcon2fAmGjSQgjK23NFBWfNxtnw&sid=3da2799ba567c2&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER`
+5. `vless://501b6afa-f955-473f-8440-1010110a1548@78.17.192.173:2053?type=grpc&security=reality&encryption=none&sni=eh.vk.com&serviceName=sx-grpc&fp=firefox&pbk=NP5_ymQeqYr_EP7aAPIl3YBRghX60zLq6m74Ht4bFUI&sid=2c043ed8#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER`
+6. `vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?type=xhttp&security=tls&encryption=none&sni=dey.lnmarketplace.net&path=%2Fkavir&fp=firefox&mode=stream-one#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER`
