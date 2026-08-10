@@ -1,7 +1,7 @@
 {
   "checked_at": "2026-08-10 20:51:27",
   "total": 6674,
-  "working": 2445,
+  "working": 1029,
   "by_protocol": {
     "vless": 773,
     "ss": 99,
@@ -125,5 +125,5 @@
       "avg_latency_ms": 961.1
     }
   },
-  "uploaded_at": "2026-08-10 20:51:54"
+  "uploaded_at": "2026-08-10 21:07:25"
 }
