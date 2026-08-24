@@ -5,27 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443?insecure=1&sni=dora4.api3-max.ru&alpn=h3#3847%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora5.api3-max.ru:443?insecure=1&sni=dora5.api3-max.ru&alpn=h3#3730%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443?insecure=1&sni=dora3.api3-max.ru&alpn=h3#4945%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora2.api3-max.ru:443?insecure=1&sni=dora2.api3-max.ru&alpn=h3#6532%20VFPARSER
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?insecure=1&alpn=h3#%F0%9F%87%AB%F0%9F%87%B7%20%5BFR%5D%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora5.api3-max.ru:443?insecure=1&sni=gora5.api3-max.ru&alpn=h3#5769%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora4.api3-max.ru:443?insecure=1&sni=gora4.api3-max.ru&alpn=h3#5941%20VFPARSER
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@start.wwwinternetvideo.click:443?insecure=1&sni=fast.wwwinternetvideo.click&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora1.api3-max.ru:443?insecure=1&sni=dora1.api3-max.ru&alpn=h3#3823%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora3.api3-max.ru:443?insecure=1&sni=gora3.api3-max.ru&alpn=h3#4263%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora1.api3-max.ru:443?insecure=1&sni=gora1.api3-max.ru&alpn=h3#3139%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov3.api3-max.ru:443?insecure=1&sni=pov3.api3-max.ru&alpn=h3#4796%20VFPARSER
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@swe-two.letsgodance.site:8443?insecure=1&sni=swe-two.letsgodance.site&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@gora2.api3-max.ru:443?insecure=1&sni=gora2.api3-max.ru&alpn=h3#%F0%9F%87%B9%F0%9F%87%B7%20%5BTR%5D%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20VFPARSER
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@fi-one.letsgodance.site:443?insecure=1&sni=fi-one.letsgodance.site&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20%5BSE%5D%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20VFPARSER
-hysteria2://d532115bea@srv-0dc9de.21freedom.net:11592?insecure=1&sni=srv-0dc9de.21freedom.net&alpn=h3#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-three.letsgodance.site:8443?insecure=1&sni=de-three.letsgodance.site&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@swe-one.letsgodance.site:443?insecure=1&sni=swe-one.letsgodance.site&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20%5BSE%5D%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov2.api3-max.ru:443?insecure=1&sni=pov2.api3-max.ru&alpn=h3#0975%20VFPARSER
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&sni=srv-17e124.21freedom.net&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
-hysteria2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@pov10.api3-max.ru:443?insecure=1&sni=pov10.api3-max.ru&alpn=h3#3404%20VFPARSER
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@de-two.letsgodance.site:443?insecure=1&sni=de-two.letsgodance.site&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@it-two.letsgodance.site:443?insecure=1&sni=it-two.letsgodance.site&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%20%5BGB%5D%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-hysteria2://5d36ddf8-dde5-4b2d-8213-d3255f22a0f1@nl-one.letsgodance.site:443?insecure=1&sni=nl-one.letsgodance.site&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
+hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8080?insecure=1&sni=grape-honk.yyuyy.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
