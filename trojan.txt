@@ -5,7 +5,6 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?security=tls&host=space.byu.id.yxls.eu.cc&path=%2Fsg-orcl#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://EQ30679154@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?security=tls&sni=id1.nathaya.web.id&host=id1.nathaya.web.id&path=%2Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://EQ30679154@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.21.59.252:443?security=tls&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F92b68c3eae48%2Floc-1#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://50414e45-4c5f-5a45-5553-92b68c3eae48@104.19.122.50:443?security=tls&sni=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&host=t2zmaqevufw1us.svgsvgrvsgr-12010.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F92b68c3eae48%2Floc-1#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.24.212.28:443?security=tls&sni=ezpanslll.samankarami0686.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
