@@ -5,4 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-vless://33c150b7-c0ca-4133-9a52-6f1207da9b8b@xhttpru.enotvpn.net:443?type=xhttp&security=reality&encryption=none&sni=deepl.com&path=%2F&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&mode=auto#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
+vless://2fe19fe7-65f7-4d3c-a01e-eeb4a963264c@88.216.214.129:8443?type=xhttp&security=reality&encryption=none&sni=www.tradingview.com&path=%2Fapi%2Fv2%2Fsync&fp=firefox&pbk=EGxJpl6UtxBovvg0-E9utvD3VvEIVYwBtRN8yy8enUs&sid=c4a1e83b6f27d590&mode=stream-up#%F0%9F%87%B8%F0%9F%87%AA%20%5BSE%5D%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20VFPARSER
