@@ -5,4 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8443?insecure=1&sni=hopp-romania-new.roxa.org&alpn=h3#%F0%9F%87%A9%F0%9F%87%BF%20%5BDZ%5D%20%D0%90%D0%BB%D0%B6%D0%B8%D1%80%20VFPARSER
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@179.198.50.131:8443?type=xhttp&security=reality&encryption=none&sni=wikihow.com&path=%2F&fp=firefox&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
