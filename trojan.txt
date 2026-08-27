@@ -5,5 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://257d8622-6701-4c98-a432-67a9696f58ae@shazira.app:443?security=tls&sni=shazira.app&path=%2FNovan-ID9&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://407ecce0-dc85-465f-89f5-e520e9378baf@ld.223350.xyz:443?security=tls&sni=ld.223350.xyz#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.67.177.105:443?security=tls&sni=app-538961.user-y0o4gm.workers.dev&path=%2Fcmh&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
