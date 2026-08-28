@@ -5,4 +5,5 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://7a657573-ab02-1092-8d71-2352043cd80b@172.67.165.218:443?security=tls&sni=qhzlk7etuybs.v0t8jh1j0.workers.dev&host=qhzlk7etuybs.v0t8jh1j0.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F2352043cd80b#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:2096?security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@app-538961.user-y0o4gm.workers.dev:443?security=tls&sni=app-538961.user-y0o4gm.workers.dev&path=%2F&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
