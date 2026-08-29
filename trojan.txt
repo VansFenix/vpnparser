@@ -5,4 +5,8 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?security=tls&sni=id1.nathaya.web.id&host=id1.nathaya.web.id&path=%2Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@172.67.233.165:443?security=tls&sni=yvzagcelunqs.73927482.workers.dev&host=yvzagcelunqs.73927482.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.16.29.250:443?security=tls&sni=yvzagcelunqs.73927482.workers.dev&host=yvzagcelunqs.73927482.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.17.100.104:443?security=tls&sni=yvzagcelunqs.73927482.workers.dev&host=yvzagcelunqs.73927482.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.24.174.94:443?security=tls&sni=yvzagcelunqs.73927482.workers.dev&host=yvzagcelunqs.73927482.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4%2Floc-0#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://50414e45-4c5f-5a45-5553-865be6c6aed4@104.17.38.50:443?security=tls&sni=yvzagcelunqs.73927482.workers.dev&host=yvzagcelunqs.73927482.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F865be6c6aed4#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
