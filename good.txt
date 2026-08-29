@@ -5,4 +5,6 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22224?security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.219.7:62145?security=none&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
+vless://b72fbee7-5ca7-4fb6-9d91-e92d803149dd@31.77.202.252:20532?security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=MQYuCxmU1rN6IvUr7NWirfQB6-TM3KUUJvs-4AssHg4&sid=3b2921eebc134aa6&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20%5BGB%5D%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.233.193:22223?security=none&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
