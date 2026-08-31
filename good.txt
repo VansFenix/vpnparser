@@ -5,5 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@eng4.helper-internet.com:443?security=reality&encryption=none&sni=eng4.helper-internet.com&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20%5BGB%5D%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-vless://835337d3-9283-4632-bcae-e1b7ce1526e5@155.254.35.117:4443?security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=WilePtoxS6aT0T-3pmYQ6VJBhM6GOxr-M82GrIgaBHk&sid=5e4f93851fda0c94&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
+vless://835337d3-9283-4632-bcae-e1b7ce1526e5@155.254.35.117:8443?type=grpc&security=reality&encryption=none&sni=www.cloudflare.com&serviceName=8993c04f3a&fp=firefox&pbk=WilePtoxS6aT0T-3pmYQ6VJBhM6GOxr-M82GrIgaBHk&sid=71017894fcfb7701#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
