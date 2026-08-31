@@ -6,3 +6,4 @@
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
 hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443?insecure=1&sni=se.allgoodvpn.su&alpn=h3#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
+hysteria2://kVfzhSpshc@hys1.wba-pn.ru:443?insecure=1&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
