@@ -5,8 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1%20%5BPL%5D%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20VFPARSER
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?insecure=1&sni=hopp-romania-new.roxa.org&alpn=h3#%F0%9F%87%A9%F0%9F%87%BF%20%5BDZ%5D%20%D0%90%D0%BB%D0%B6%D0%B8%D1%80%20VFPARSER
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast100.screw.page:443?insecure=1&sni=fast100.screw.page&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
 hysteria2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@ush2.shazamri.xyz:443?insecure=1&sni=ush2.shazamri.xyz&alpn=h3#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
-hysteria2://5b88763e-e1a1-43a2-8556-bc7963ce8739@fast93.screw.page:443?insecure=1&sni=fast93.screw.page&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
