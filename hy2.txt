@@ -5,5 +5,8 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.175:8443?insecure=1&sni=hopp-netherland-new.dynuddns.net&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.185:8443?insecure=1&sni=hopp-romania-new.roxa.org&alpn=h3#%F0%9F%87%A9%F0%9F%87%BF%20%5BDZ%5D%20%D0%90%D0%BB%D0%B6%D0%B8%D1%80%20VFPARSER
 hysteria2://0db4a6c709ca4a46153af8a401b7138a@se.allgoodvpn.su:8443?insecure=1&sni=se.allgoodvpn.su&alpn=h3#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
 hysteria2://kVfzhSpshc@hys1.wba-pn.ru:443?insecure=1&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+hysteria2://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.77.220.185:7443?insecure=1&sni=fi.aeternavpn.space&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%20%5BGB%5D%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
