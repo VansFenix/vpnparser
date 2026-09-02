@@ -5,5 +5,6 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@o5zmxbeoutis.o7zluiebuo8s.workers.dev:2096?security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F05920b4f8f35&fp=unsafe#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?security=tls&sni=id1.nathaya.web.id&host=id1.nathaya.web.id&path=%2Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://Mehdi1234@172.64.144.251:2083?security=tls&sni=purple-recipe-5e30.cimavo4626.workers.dev&host=purple-recipe-5e30.cimavo4626.workers.dev&path=%2F-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.176.157:443?security=tls&sni=id1.nathaya.web.id&path=%2Ftrojan&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?security=tls&sni=id1.nathaya.web.id&path=%2Ftrojan&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
