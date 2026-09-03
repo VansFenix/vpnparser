@@ -6,5 +6,3 @@
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@141.148.245.146:62145?encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
-vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?type=ws&security=none&encryption=none&path=%2Fv1&host=live.ok.ru&fp=edge#%F0%9F%87%A7%F0%9F%87%B7%20%5BBR%5D%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20VFPARSER
-vless://3c5b4526-9f8a-4b99-913e-6549bfd20dc3@201.24.49.53:2200?type=ws&encryption=none&path=%2Fv1&host=rzd.ru#%F0%9F%87%A7%F0%9F%87%B7%20%5BBR%5D%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20VFPARSER
