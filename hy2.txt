@@ -5,5 +5,8 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-hysteria2://ca4f51fcfae16c802d52@x-ui-ge.havalvpn.ru:44312?insecure=1&sni=x-ui-ge.havalvpn.ru&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
 hysteria2://44eb80266efef2761a2b@x-ui.havalvpn.ru:27955?insecure=1&sni=x-ui.havalvpn.ru&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
+hysteria2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@wiki.locallynet.org:8443?insecure=1&sni=wiki.locallynet.org&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7%20%5BGB%5D%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
+hysteria2://ca4f51fcfae16c802d52@x-ui-ge.havalvpn.ru:44312?insecure=1&sni=x-ui-ge.havalvpn.ru&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
+hysteria2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@united.hysteria.ltd:5443?insecure=1&sni=united.hysteria.ltd&alpn=h3#%F0%9F%87%A7%F0%9F%87%B7%20%5BBR%5D%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20VFPARSER
+hysteria2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@gaming.locallynet.org:5443?insecure=1&sni=gaming.locallynet.org&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
