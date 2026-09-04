@@ -6,6 +6,6 @@
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
 hysteria2://7027919f-ffc6-4cbf-92a7-af1c0f860b86@193.23.216.87:443?insecure=1&sni=de2.hat.onl&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@31.76.85.59:443?insecure=1&sni=nl2.hat.onl&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
 hysteria2://7027919f-ffc6-4cbf-92a7-af1c0f860b86@31.76.5.107:443?insecure=1&sni=31-76-5-107.sslip.io&alpn=h3#%F0%9F%87%B3%F0%9F%87%B4%20%5BNO%5D%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F%20VFPARSER
+hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@31.76.85.59:443?insecure=1&sni=nl2.hat.onl&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
 hysteria2://0fb89362-121d-4d44-9ed3-99c40aa5a6b4@2.26.93.130:443?insecure=1&sni=se1.hat.onl&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA%20%5BSE%5D%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20VFPARSER
