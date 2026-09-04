@@ -3,43 +3,42 @@
 Автоматический сбор и проверка VPN-конфигов.
 Обновление подписок каждые 3 часа.
 
-- Обновлено: **2026-09-04 03:33:46**
-- Всего конфигов: **100077**
-- Работает: **143**
+- Обновлено: **2026-09-04 07:53:01**
+- Всего конфигов: **53001**
+- Работает: **168**
 
 ## Подписки
 
 | Подписка | Конфигов | Средний пинг | Протоколы | Ссылка | Base64 |
 |---|---|---|---|---|---|
-| `all` | 143 | 933мс | hy2: 4, ss: 5, trojan: 2, vless: 129, vmess: 3 | [all.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all.txt) | [all_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all_base64.txt) |
-| `stable` | 139 | 919мс | ss: 5, trojan: 2, vless: 129, vmess: 3 | [stable.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable.txt) | [stable_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable_base64.txt) |
-| `speed` | 50 | 485мс | ss: 3, vless: 47 | [speed.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed.txt) | [speed_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed_base64.txt) |
-| `vless` | 129 | 923мс | vless: 129 | [vless.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless.txt) | [vless_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless_base64.txt) |
-| `trojan` | 2 | 1192мс | trojan: 2 | [trojan.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan.txt) | [trojan_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan_base64.txt) |
-| `hy2` | 4 | 1434мс | hy2: 4 | [hy2.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2.txt) | [hy2_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2_base64.txt) |
-| `vmess` | 3 | 902мс | vmess: 3 | [vmess.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess.txt) | [vmess_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess_base64.txt) |
-| `ss` | 5 | 721мс | ss: 5 | [ss.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss.txt) | [ss_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss_base64.txt) |
+| `all` | 168 | 991мс | ss: 3, trojan: 2, vless: 161, vmess: 2 | [all.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all.txt) | [all_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all_base64.txt) |
+| `stable` | 150 | 916мс | ss: 3, trojan: 2, vless: 144, vmess: 1 | [stable.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable.txt) | [stable_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable_base64.txt) |
+| `speed` | 50 | 462мс | ss: 1, vless: 49 | [speed.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed.txt) | [speed_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed_base64.txt) |
+| `good` | 1 | 264мс | vless: 1 | [good.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good.txt) | [good_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good_base64.txt) |
+| `vless` | 161 | 972мс | vless: 161 | [vless.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless.txt) | [vless_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless_base64.txt) |
+| `trojan` | 2 | 2871мс | trojan: 2 | [trojan.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan.txt) | [trojan_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan_base64.txt) |
+| `vmess` | 2 | 882мс | vmess: 2 | [vmess.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess.txt) | [vmess_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess_base64.txt) |
+| `ss` | 3 | 826мс | ss: 3 | [ss.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss.txt) | [ss_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss_base64.txt) |
 
 ## Статистика
 
 **По протоколам:**
-- `hy2`: 4
-- `ss`: 5
+- `ss`: 3
 - `trojan`: 2
-- `vless`: 129
-- `vmess`: 3
+- `vless`: 161
+- `vmess`: 2
 
 **По странам (топ-10):**
-- США: 33
-- Россия: 19
-- Нидерланды: 17
-- Германия: 15
-- Польша: 11
+- США: 59
+- Нидерланды: 25
+- Германия: 20
+- Польша: 20
+- Россия: 9
+- Швеция: 6
 - Сербия: 6
 - Эстония: 4
-- Швеция: 4
-- Испания: 4
-- Молдова: 4
+- Финляндия: 3
+- Украина: 3
 
 ## Как использовать
 
