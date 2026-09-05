@@ -5,7 +5,6 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://xhl549341@172.64.152.241:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://fd5d3c04-9a43-7702-e70d-a3c53ff216f4@104.16.180.203:443?security=tls&sni=ezpanslll.samankarami0686.workers.dev&path=%2Fsync&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?security=tls&sni=id1.nathaya.web.id&path=%2Ftrojan&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.176.157:443?security=tls&sni=id1.nathaya.web.id&host=id1.nathaya.web.id&path=%2Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@46.8.209.170:8443?security=tls&sni=rum2.quickgo.cc&alpn=h2%2Chttp/1.1&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@46.8.208.15:993?security=tls&sni=plnode12.ichost.cloud&alpn=h2%2Chttp/1.1&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
+trojan://kPCHGQd2HfUXgwkLFysGexRMwvX0PNop@46.8.209.212:6443?security=tls&sni=node102.ichost.cloud&alpn=h2%2Chttp/1.1&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
