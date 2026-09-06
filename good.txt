@@ -5,4 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-vless://d9d0f208-d582-41d5-bb7b-742671402810@ovk6lv4rlvi.vpvr4ib84nuv6hdkt.ru:3077?security=reality&encryption=none&sni=ovk6lv4rlvi.vpvr4ib84nuv6hdkt.ru&fp=firefox&pbk=8GnxB0ZZX6eYKsl03bD3xyEmu-_kAGQ2EcfTMa-KQSw&sid=751c96d1e4ccfdb7&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
+vless://d9d0f208-d582-41d5-bb7b-742671402810@45.131.111.61:20081?security=reality&encryption=none&sni=pgpbktb5fo6.vpvr4ib84nuv6hdkt.ru&fp=firefox&pbk=AMhVgmy1cPrujcUoV2MeHlCCqgMlU-_6v4eC1cWiSgk&sid=6ee5b4ebf3ac7862&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
