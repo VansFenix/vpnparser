@@ -5,9 +5,6 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://c0c17d1da2c2c9299d5094c8@ez-3e9698.ezaccess1ec1f0c.workers.dev:443?security=tls&host=ez-3e9698.ezaccess1ec1f0c.workers.dev&path=%2FeyJqdW5rIjoiMDdteWJvazY4azJ3MiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://50414e45-4c5f-5a45-5553-987577764079@pwzzo9ebucas.vjzuekegudfs.workers.dev:2083?security=tls&sni=pwzzo9ebucas.vjzuekegudfs.workers.dev&host=pwzzo9ebucas.vjzuekegudfs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F987577764079&fp=unsafe#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://50414e45-4c5f-5a45-5553-987577764079@pwzzo9ebucas.vjzuekegudfs.workers.dev:443?security=tls&sni=pwzzo9ebucas.vjzuekegudfs.workers.dev&host=pwzzo9ebucas.vjzuekegudfs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F987577764079&fp=unsafe#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://50414e45-4c5f-5a45-5553-05920b4f8f35@o5zmxbeoutis.o7zluiebuo8s.workers.dev:2087?security=tls&sni=o5zmxbeoutis.o7zluiebuo8s.workers.dev&host=o5zmxbeoutis.o7zluiebuo8s.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F05920b4f8f35&fp=unsafe#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://988sR-269PKCKlb&3pMrFTEr@jquery.com:443?security=tls&sni=letiranbreath-7rrkevfu2hjbis5uhcxwztz24t5vp6trf1oka8dkrw0n.he3fmq6z0mfszsk3xy2e.workers.dev&path=%2FeyJqdW5rIjoicGpncHl4eVZoSnZQcFRTIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&alpn=http/1.1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?security=tls&sni=id1.nathaya.web.id&host=id1.nathaya.web.id&path=%2Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.83.135:443?security=tls&sni=id1.nathaya.web.id&path=%2Ftrojan&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?security=tls&sni=id1.nathaya.web.id&host=id1.nathaya.web.id&path=%2Ftrojan&fp=unsafe#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@172.67.176.157:443?security=tls&sni=id1.nathaya.web.id&host=id1.nathaya.web.id&path=%2Ftrojan#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
