@@ -1,69 +1,81 @@
 {
-  "checked_at": "2026-09-09 19:30:47",
-  "total": 55662,
-  "working": 32,
+  "checked_at": "2026-09-09 22:00:57",
+  "total": 100027,
+  "working": 55,
   "by_protocol": {
     "hy2": 4,
-    "vless": 28
+    "vless": 49,
+    "vmess": 2
   },
   "by_country": {
-    "Россия": 4,
-    "США": 8,
-    "Финляндия": 3,
-    "Норвегия": 2,
+    "Россия": 12,
+    "США": 17,
+    "Германия": 3,
+    "Великобритания": 3,
+    "Финляндия": 1,
+    "Нидерланды": 11,
     "Франция": 3,
-    "Нидерланды": 5,
+    "Норвегия": 1,
     "Канада": 1,
-    "Гонконг": 1,
-    "Германия": 4,
-    "Великобритания": 1
+    "Япония": 1,
+    "Гонконг": 2
   },
   "variants": {
     "all": {
-      "count": 32,
+      "count": 55,
       "by_protocol": {
         "hy2": 4,
-        "vless": 28
+        "vless": 49,
+        "vmess": 2
       },
-      "avg_latency_ms": 1195.6
+      "avg_latency_ms": 559.6
     },
     "stable": {
-      "count": 28,
+      "count": 51,
       "by_protocol": {
-        "vless": 28
+        "vless": 49,
+        "vmess": 2
       },
-      "avg_latency_ms": 1067.6
+      "avg_latency_ms": 563.0
     },
     "speed": {
-      "count": 32,
+      "count": 50,
       "by_protocol": {
         "hy2": 4,
-        "vless": 28
+        "vless": 44,
+        "vmess": 2
       },
-      "avg_latency_ms": 1195.6
+      "avg_latency_ms": 443.0
     },
     "good": {
-      "count": 4,
+      "count": 16,
       "by_protocol": {
         "hy2": 1,
-        "vless": 3
+        "vless": 15
       },
-      "avg_latency_ms": 229.3
+      "avg_latency_ms": 240.9
     },
     "vless": {
-      "count": 28,
+      "count": 49,
       "by_protocol": {
-        "vless": 28
+        "vless": 49
       },
-      "avg_latency_ms": 1067.6
+      "avg_latency_ms": 556.1
+    },
+    "vmess": {
+      "count": 2,
+      "by_protocol": {
+        "vmess": 2
+      },
+      "avg_latency_ms": 732.3
     },
     "hy2": {
       "count": 4,
       "by_protocol": {
         "hy2": 4
       },
-      "avg_latency_ms": 2092.0
+      "avg_latency_ms": 516.9
     }
   },
-  "uploaded_at": "2026-09-09 19:31:18"
+  "uploaded_at": "2026-09-09 22:01:33"
 }
