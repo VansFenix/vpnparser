@@ -5,5 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@172.64.229.84:443?security=tls&sni=ot.hyas.space&host=ot.hyas.space&path=%2Fx7f9k2m4p8#%F0%9F%8C%90%20%5B%3F%3F%5D%20%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%20%7C%20TROJAN%20VFPARSER
-trojan://62dbcf02-0989-4441-a01a-93f9c3b93525@162.159.38.58:443?security=tls&sni=ot.hyas.space&host=ot.hyas.space&path=%2Fx7f9k2m4p8#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://624209bb-8216-45fe-bbe0-50132ec63162@ot2.hyas.space:443?security=tls&sni=ot2.hyas.space&host=ot2.hyas.space&path=%2Fx7f9k2m4p8#%F0%9F%8C%90%20%5B%3F%3F%5D%20%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%20%7C%20TROJAN%20VFPARSER
