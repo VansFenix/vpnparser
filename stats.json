@@ -1,5 +1,68 @@
 {
-  "working": 83,
-  "total": 83,
-  "uploaded_at": "2026-09-14 16:35:43"
+  "checked_at": "2026-09-14 17:41:04",
+  "total": 95304,
+  "working": 35,
+  "by_protocol": {
+    "vless": 35
+  },
+  "by_country": {
+    "США": 4,
+    "Эстония": 1,
+    "Молдова": 1,
+    "Турция": 1,
+    "Швеция": 1,
+    "Россия": 7,
+    "Финляндия": 1,
+    "Нидерланды": 6,
+    "Германия": 6,
+    "GitHub (CDN)": 1,
+    "Казахстан": 2,
+    "Литва": 1,
+    "Гонконг": 3
+  },
+  "variants": {
+    "all": {
+      "count": 35,
+      "by_protocol": {
+        "vless": 35
+      },
+      "avg_latency_ms": 1082.0
+    },
+    "stable": {
+      "count": 35,
+      "by_protocol": {
+        "vless": 35
+      },
+      "avg_latency_ms": 1082.0
+    },
+    "speed": {
+      "count": 35,
+      "by_protocol": {
+        "vless": 35
+      },
+      "avg_latency_ms": 1082.0
+    },
+    "good": {
+      "count": 3,
+      "by_protocol": {
+        "vless": 3
+      },
+      "avg_latency_ms": 222.0
+    },
+    "vless": {
+      "count": 35,
+      "by_protocol": {
+        "vless": 35
+      },
+      "avg_latency_ms": 1082.0
+    },
+    "white": {
+      "count": 1,
+      "by_protocol": {
+        "vless": 1
+      },
+      "avg_latency_ms": 321.0
+    }
+  },
+  "uploaded_at": "2026-09-14 17:41:28"
 }
