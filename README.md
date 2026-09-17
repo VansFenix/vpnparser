@@ -3,45 +3,45 @@
 Автоматический сбор и проверка VPN-конфигов.
 Обновление подписок каждые 3 часа.
 
-- Обновлено: **2026-09-17 19:28:51**
-- Всего конфигов: **142150**
-- Работает: **42**
+- Обновлено: **2026-09-17 22:26:19**
+- Всего конфигов: **46273**
+- Работает: **47**
 
 ## Подписки
 
 | Подписка | Конфигов | Средний пинг | Протоколы | Ссылка | Base64 |
 |---|---|---|---|---|---|
-| `all` | 42 | 1117мс | hy2: 2, ss: 7, trojan: 1, vless: 31, vmess: 1 | [all.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all.txt) | [all_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all_base64.txt) |
-| `stable` | 40 | 1094мс | ss: 7, trojan: 1, vless: 31, vmess: 1 | [stable.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable.txt) | [stable_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable_base64.txt) |
-| `speed` | 42 | 1117мс | hy2: 2, ss: 7, trojan: 1, vless: 31, vmess: 1 | [speed.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed.txt) | [speed_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed_base64.txt) |
-| `good` | 9 | 202мс | hy2: 1, ss: 2, vless: 6 | [good.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good.txt) | [good_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good_base64.txt) |
-| `white` | 4 | 2254мс | hy2: 1, vless: 3 | [white.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white.txt) | [white_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white_base64.txt) |
-| `vless` | 31 | 1202мс | vless: 31 | [vless.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless.txt) | [vless_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless_base64.txt) |
-| `trojan` | 1 | 797мс | trojan: 1 | [trojan.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan.txt) | [trojan_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan_base64.txt) |
-| `hy2` | 2 | 1593мс | hy2: 2 | [hy2.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2.txt) | [hy2_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2_base64.txt) |
-| `vmess` | 1 | 794мс | vmess: 1 | [vmess.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess.txt) | [vmess_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess_base64.txt) |
-| `ss` | 7 | 700мс | ss: 7 | [ss.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss.txt) | [ss_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss_base64.txt) |
+| `all` | 47 | 868мс | hy2: 2, ss: 7, trojan: 3, vless: 33, vmess: 2 | [all.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all.txt) | [all_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all_base64.txt) |
+| `stable` | 45 | 823мс | ss: 7, trojan: 3, vless: 33, vmess: 2 | [stable.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable.txt) | [stable_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable_base64.txt) |
+| `speed` | 47 | 868мс | hy2: 2, ss: 7, trojan: 3, vless: 33, vmess: 2 | [speed.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed.txt) | [speed_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed_base64.txt) |
+| `good` | 21 | 202мс | ss: 3, trojan: 3, vless: 15 | [good.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good.txt) | [good_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good_base64.txt) |
+| `white` | 2 | 1217мс | hy2: 1, vless: 1 | [white.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white.txt) | [white_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white_base64.txt) |
+| `vless` | 33 | 878мс | vless: 33 | [vless.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless.txt) | [vless_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless_base64.txt) |
+| `trojan` | 3 | 222мс | trojan: 3 | [trojan.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan.txt) | [trojan_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/trojan_base64.txt) |
+| `hy2` | 2 | 1887мс | hy2: 2 | [hy2.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2.txt) | [hy2_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2_base64.txt) |
+| `vmess` | 2 | 1303мс | vmess: 2 | [vmess.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess.txt) | [vmess_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vmess_base64.txt) |
+| `ss` | 7 | 681мс | ss: 7 | [ss.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss.txt) | [ss_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss_base64.txt) |
 
 ## Статистика
 
 **По протоколам:**
 - `hy2`: 2
 - `ss`: 7
-- `trojan`: 1
-- `vless`: 31
-- `vmess`: 1
+- `trojan`: 3
+- `vless`: 33
+- `vmess`: 2
 
 **По странам (топ-10):**
+- Нидерланды: 8
 - Германия: 8
-- Россия: 8
-- Япония: 6
-- Великобритания: 4
-- Нидерланды: 4
-- США: 3
+- Япония: 7
+- Великобритания: 5
+- Россия: 5
+- США: 4
+- Польша: 3
 - Швеция: 2
-- Польша: 2
-- Сингапур: 1
-- Турция: 1
+- Эстония: 1
+- Австрия: 1
 
 ## Как использовать
 
