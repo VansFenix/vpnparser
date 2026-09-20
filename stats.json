@@ -1,109 +1,111 @@
 {
-  "checked_at": "2026-09-20 07:07:07",
-  "total": 90240,
-  "working": 137,
+  "checked_at": "2026-09-20 10:34:30",
+  "total": 142298,
+  "working": 110,
   "by_protocol": {
-    "vless": 119,
+    "vless": 94,
     "ss": 8,
-    "hy2": 9,
-    "vmess": 1
+    "hy2": 7,
+    "trojan": 1
   },
   "by_country": {
-    "Турция": 6,
-    "Швеция": 7,
-    "Германия": 12,
-    "Франция": 3,
-    "Великобритания": 10,
-    "Польша": 3,
-    "США": 39,
-    "Финляндия": 5,
-    "Нидерланды": 14,
-    "Литва": 2,
-    "Испания": 3,
-    "Россия": 13,
-    "Швейцария": 2,
-    "Болгария": 2,
-    "Канада": 1,
+    "Россия": 12,
+    "Великобритания": 8,
+    "США": 37,
     "Япония": 3,
+    "Германия": 10,
+    "Литва": 2,
+    "Нидерланды": 5,
+    "Швеция": 6,
+    "Испания": 4,
+    "Финляндия": 3,
+    "Франция": 2,
+    "Швейцария": 1,
+    "Канада": 1,
+    "Алжир": 1,
+    "Польша": 2,
+    "Эстония": 4,
     "Сингапур": 3,
-    "Индия": 2,
-    "Чехия": 1,
+    "Норвегия": 1,
+    "Южная Корея": 1,
     "Албания": 2,
-    "Эстония": 3,
-    "Алжир": 1
+    "Чехия": 1,
+    "Болгария": 1
   },
   "variants": {
     "all": {
-      "count": 137,
+      "count": 110,
       "by_protocol": {
-        "vless": 119,
+        "vless": 94,
         "ss": 8,
-        "hy2": 9,
-        "vmess": 1
+        "hy2": 7,
+        "trojan": 1
       },
-      "avg_latency_ms": 689.2
+      "avg_latency_ms": 787.5
     },
     "stable": {
-      "count": 128,
+      "count": 103,
       "by_protocol": {
-        "vless": 119,
+        "vless": 94,
         "ss": 8,
-        "vmess": 1
+        "trojan": 1
       },
-      "avg_latency_ms": 623.3
+      "avg_latency_ms": 757.8
     },
     "speed": {
       "count": 50,
       "by_protocol": {
-        "vless": 49,
-        "ss": 1
+        "vless": 46,
+        "ss": 2,
+        "hy2": 2
       },
-      "avg_latency_ms": 192.5
+      "avg_latency_ms": 246.3
     },
     "good": {
-      "count": 55,
+      "count": 37,
       "by_protocol": {
-        "vless": 54,
-        "ss": 1
+        "vless": 33,
+        "ss": 2,
+        "hy2": 2
       },
-      "avg_latency_ms": 206.6
+      "avg_latency_ms": 217.7
     },
     "vless": {
-      "count": 119,
+      "count": 94,
       "by_protocol": {
-        "vless": 119
+        "vless": 94
       },
-      "avg_latency_ms": 626.1
-    },
-    "vmess": {
-      "count": 1,
-      "by_protocol": {
-        "vmess": 1
-      },
-      "avg_latency_ms": 500.0
+      "avg_latency_ms": 775.7
     },
     "ss": {
       "count": 8,
       "by_protocol": {
         "ss": 8
       },
-      "avg_latency_ms": 597.5
+      "avg_latency_ms": 550.1
+    },
+    "trojan": {
+      "count": 1,
+      "by_protocol": {
+        "trojan": 1
+      },
+      "avg_latency_ms": 744.3
     },
     "hy2": {
-      "count": 9,
+      "count": 7,
       "by_protocol": {
-        "hy2": 9
+        "hy2": 7
       },
-      "avg_latency_ms": 1626.3
+      "avg_latency_ms": 1224.2
     },
     "white": {
-      "count": 11,
+      "count": 10,
       "by_protocol": {
-        "vless": 10,
+        "vless": 9,
         "hy2": 1
       },
-      "avg_latency_ms": 1150.5
+      "avg_latency_ms": 340.5
     }
   },
-  "uploaded_at": "2026-09-20 07:07:38"
+  "uploaded_at": "2026-09-20 10:35:00"
 }
