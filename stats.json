@@ -1,90 +1,89 @@
 {
-  "checked_at": "2026-09-22 10:24:27",
-  "total": 48232,
-  "working": 65,
+  "checked_at": "2026-09-22 13:04:57",
+  "total": 89938,
+  "working": 23,
   "by_protocol": {
-    "vless": 61,
+    "vless": 19,
     "ss": 2,
     "hy2": 2
   },
   "by_country": {
-    "Россия": 3,
-    "Турция": 1,
-    "Финляндия": 2,
-    "США": 41,
-    "Нидерланды": 7,
-    "Литва": 2,
-    "Германия": 1,
-    "Бразилия": 1,
-    "Канада": 1,
+    "Швеция": 2,
     "Великобритания": 3,
-    "Швеция": 1,
-    "Польша": 1,
-    "Сингапур": 1
+    "Австрия": 1,
+    "Литва": 2,
+    "Россия": 4,
+    "Германия": 2,
+    "Нидерланды": 4,
+    "Швейцария": 1,
+    "Сингапур": 1,
+    "США": 2,
+    "Финляндия": 1
   },
   "variants": {
     "all": {
-      "count": 65,
+      "count": 23,
       "by_protocol": {
-        "vless": 61,
+        "vless": 19,
         "ss": 2,
         "hy2": 2
       },
-      "avg_latency_ms": 746.2
+      "avg_latency_ms": 766.1
     },
     "stable": {
-      "count": 63,
+      "count": 21,
       "by_protocol": {
-        "vless": 61,
+        "vless": 19,
         "ss": 2
       },
-      "avg_latency_ms": 703.4
+      "avg_latency_ms": 675.5
     },
     "speed": {
-      "count": 50,
+      "count": 23,
       "by_protocol": {
-        "vless": 48,
-        "ss": 1,
-        "hy2": 1
+        "vless": 19,
+        "ss": 2,
+        "hy2": 2
       },
-      "avg_latency_ms": 400.6
+      "avg_latency_ms": 766.1
     },
     "good": {
-      "count": 15,
+      "count": 8,
       "by_protocol": {
-        "vless": 15
+        "vless": 7,
+        "ss": 1
       },
-      "avg_latency_ms": 186.1
+      "avg_latency_ms": 236.0
     },
     "vless": {
-      "count": 61,
+      "count": 19,
       "by_protocol": {
-        "vless": 61
+        "vless": 19
       },
-      "avg_latency_ms": 626.0
+      "avg_latency_ms": 686.1
     },
     "ss": {
       "count": 2,
       "by_protocol": {
         "ss": 2
       },
-      "avg_latency_ms": 3066.2
+      "avg_latency_ms": 575.1
     },
     "hy2": {
       "count": 2,
       "by_protocol": {
         "hy2": 2
       },
-      "avg_latency_ms": 2094.9
+      "avg_latency_ms": 1717.2
     },
     "white": {
-      "count": 4,
+      "count": 3,
       "by_protocol": {
-        "vless": 2,
+        "vless": 1,
         "hy2": 2
       },
-      "avg_latency_ms": 1588.4
+      "avg_latency_ms": 1225.8
     }
   },
-  "uploaded_at": "2026-09-22 10:25:02"
+  "uploaded_at": "2026-09-22 13:05:27"
 }
