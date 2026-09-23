@@ -3,41 +3,41 @@
 Автоматический сбор и проверка VPN-конфигов.
 Обновление подписок каждые 3 часа.
 
-- Обновлено: **2026-09-23 13:21:10**
-- Всего конфигов: **48876**
-- Работает: **34**
+- Обновлено: **2026-09-23 16:06:47**
+- Всего конфигов: **90056**
+- Работает: **40**
 
 ## Подписки
 
 | Подписка | Конфигов | Средний пинг | Протоколы | Ссылка | Base64 |
 |---|---|---|---|---|---|
-| `all` | 34 | 1093мс | hy2: 2, ss: 2, vless: 30 | [all.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all.txt) | [all_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all_base64.txt) |
-| `stable` | 32 | 990мс | ss: 2, vless: 30 | [stable.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable.txt) | [stable_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable_base64.txt) |
-| `speed` | 34 | 1093мс | hy2: 2, ss: 2, vless: 30 | [speed.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed.txt) | [speed_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed_base64.txt) |
-| `good` | 12 | 226мс | hy2: 1, vless: 11 | [good.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good.txt) | [good_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good_base64.txt) |
-| `white` | 6 | 2271мс | hy2: 2, vless: 4 | [white.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white.txt) | [white_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white_base64.txt) |
-| `vless` | 30 | 1019мс | vless: 30 | [vless.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless.txt) | [vless_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless_base64.txt) |
-| `hy2` | 2 | 2748мс | hy2: 2 | [hy2.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2.txt) | [hy2_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2_base64.txt) |
-| `ss` | 2 | 542мс | ss: 2 | [ss.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss.txt) | [ss_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss_base64.txt) |
+| `all` | 40 | 1123мс | hy2: 2, ss: 1, vless: 37 | [all.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all.txt) | [all_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/all_base64.txt) |
+| `stable` | 38 | 1106мс | ss: 1, vless: 37 | [stable.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable.txt) | [stable_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/stable_base64.txt) |
+| `speed` | 40 | 1123мс | hy2: 2, ss: 1, vless: 37 | [speed.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed.txt) | [speed_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/speed_base64.txt) |
+| `good` | 10 | 241мс | vless: 10 | [good.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good.txt) | [good_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/good_base64.txt) |
+| `white` | 3 | 1253мс | hy2: 2, vless: 1 | [white.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white.txt) | [white_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/white_base64.txt) |
+| `vless` | 37 | 1124мс | vless: 37 | [vless.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless.txt) | [vless_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/vless_base64.txt) |
+| `hy2` | 2 | 1457мс | hy2: 2 | [hy2.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2.txt) | [hy2_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/hy2_base64.txt) |
+| `ss` | 1 | 412мс | ss: 1 | [ss.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss.txt) | [ss_base64.txt](https://raw.githubusercontent.com/VansFenix/vpnparser/main/ss_base64.txt) |
 
 ## Статистика
 
 **По протоколам:**
 - `hy2`: 2
-- `ss`: 2
-- `vless`: 30
+- `ss`: 1
+- `vless`: 37
 
 **По странам (топ-10):**
-- Нидерланды: 6
-- Россия: 6
-- США: 5
+- Россия: 8
+- США: 6
 - Литва: 4
-- Польша: 4
-- Великобритания: 2
-- Финляндия: 1
+- Нидерланды: 4
+- Великобритания: 3
+- Финляндия: 3
+- Польша: 3
+- Молдова: 2
+- Турция: 2
 - Германия: 1
-- Бразилия: 1
-- Молдова: 1
 
 ## Как использовать
 
