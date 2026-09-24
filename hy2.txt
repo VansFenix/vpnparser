@@ -5,7 +5,13 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
+hysteria2://kewr0929_M9ic23iqe_m9E2R93Js8034c_Rt10@222.167.212.160:8443?insecure=1&sni=new-finland-september.bumbleshrimp.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%20%5BFI%5D%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20VFPARSER
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.13:8443?insecure=1&sni=hop-germany-september.dynuddns.com&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.13:8081?insecure=1&sni=hop-germany-september.dynuddns.com&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.99:8443?insecure=1&sni=grape-test-italy.dynuddns.net&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
+hysteria2://d929e993-8053-488a-8a22-0ae09f706a2e@31.59.150.248:4433?insecure=1&sni=nl.nextgencloud.tech&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20%5BNL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20VFPARSER
+hysteria2://we9_I1893UFj3149xbr1_k8qvJ8734ic_Mx82gH@82.38.64.239:8443?insecure=1&sni=hopp-swizland-new.mysynology.net&alpn=h3#%F0%9F%87%A8%F0%9F%87%AD%20%5BCH%5D%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%20VFPARSER
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?insecure=1&sni=hy.quattro-tech.ru&alpn=h3#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.189:8443?insecure=1&sni=hopp-romania-new.roxa.org&alpn=h3#%F0%9F%87%A9%F0%9F%87%BF%20%5BDZ%5D%20%D0%90%D0%BB%D0%B6%D0%B8%D1%80%20VFPARSER
 hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.13:8081?insecure=1&sni=hop-germany-september.dynuddns.com&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20%5BDE%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20VFPARSER
+hysteria2://5413edfb-08d6-4fba-b51c-809c04feb127@77.110.104.238:443?insecure=1&sni=ch2-hy2.veilvpn.life&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
