@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: WVFPARSERS
+#support-url: https://t.me/wildVF
+#profile-web-page-url: https://t.me/wildVF
+#routing-enable: 5 
+#announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
+# Приятного использования
+vless://c3c19a28-aa7c-4bcd-aaf7-3172e4e73fba@pl.applepie-recipe.ru:443?encryption=none&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
