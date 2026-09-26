@@ -5,4 +5,4 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?security=tls&sni=la14.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://Telegram-Config0plus-983ced63-fcf0-4d15-b81b-432e32e9b932@45.130.125.0:443?security=tls&sni=api24-normal.tiktokv.com.r3xxe.eu.cc&host=api24-normal.tiktokv.com.r3xxe.eu.cc&path=%2Fus-gllc#%F0%9F%87%B8%F0%9F%87%A8%20%5BSC%5D%20%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8B%20VFPARSER
