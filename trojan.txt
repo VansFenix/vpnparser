@@ -5,4 +5,5 @@
 #routing-enable: 5 
 #announce: Сборка конфигов @wildVF всех рады видеть в нашем форуме.
 # Приятного использования
-trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musica.moritech.net:443?security=tls&sni=cz-musica.moritech.net&path=grpcbeast&alpn=h2&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musice.moritech.net:443?security=tls&sni=cz-musice.moritech.net&path=grpcbeast&alpn=h2&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
+trojan://f8b-U5TxjNRYKLvU0Js_6YeMCdj_82km@cz-musicd.moritech.net:443?security=tls&sni=cz-musicd.moritech.net&path=grpcbeast&alpn=h2&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20%5BUS%5D%20%D0%A1%D0%A8%D0%90%20VFPARSER
