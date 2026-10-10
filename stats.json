@@ -1,132 +1,136 @@
 {
-  "checked_at": "2026-10-10 11:37:17",
-  "total": 355767,
-  "working": 198,
+  "checked_at": "2026-10-10 18:52:27",
+  "total": 356039,
+  "working": 250,
   "by_protocol": {
-    "vless": 134,
-    "ss": 8,
-    "hy2": 30,
-    "trojan": 20,
-    "vmess": 6
+    "vless": 169,
+    "ss": 12,
+    "hy2": 32,
+    "vmess": 6,
+    "trojan": 31
   },
   "by_country": {
-    "США": 40,
-    "Россия": 31,
-    "Германия": 14,
-    "Япония": 14,
+    "США": 44,
+    "Россия": 34,
+    "Германия": 26,
+    "Япония": 16,
+    "Финляндия": 13,
+    "Сингапур": 13,
+    "Гонконг": 10,
+    "Южная Корея": 10,
     "Сербия": 9,
+    "Польша": 8,
     "Болгария": 8,
-    "Сингапур": 8,
-    "Гонконг": 8,
-    "Польша": 7,
+    "Эстония": 6,
+    "Великобритания": 6,
     "Нидерланды": 6,
-    "Южная Корея": 6,
-    "Финляндия": 5,
-    "Великобритания": 5,
-    "Латвия": 4,
-    "Испания": 4,
-    "Эстония": 3,
-    "Румыния": 3,
-    "Молдова": 3,
-    "Сейшелы": 2,
-    "ОАЭ": 2,
+    "Латвия": 6,
+    "Армения": 4,
+    "Молдова": 4,
+    "Испания": 3,
+    "Швеция": 3,
+    "ОАЭ": 3,
+    "Румыния": 2,
+    "Австрия": 2,
+    "Канада": 2,
     "Индия": 2,
-    "Малайзия": 2,
-    "Австралия": 2,
-    "Армения": 2,
-    "Италия": 1,
-    "Австрия": 1,
+    "ЮАР": 2,
     "Франция": 1,
-    "Канада": 1,
+    "Италия": 1,
+    "Ирландия": 1,
     "Турция": 1,
-    "ЮАР": 1,
-    "Швеция": 1,
+    "Таиланд": 1,
+    "Малайзия": 1,
+    "Словакия": 1,
     "Индонезия": 1
   },
   "variants": {
     "all": {
-      "count": 198,
+      "count": 250,
       "by_protocol": {
-        "vless": 134,
-        "ss": 8,
-        "hy2": 30,
-        "trojan": 20,
-        "vmess": 6
+        "vless": 169,
+        "ss": 12,
+        "hy2": 32,
+        "vmess": 6,
+        "trojan": 31
       },
-      "avg_latency_ms": 1504.4
+      "avg_latency_ms": 1354.9
     },
     "stable": {
       "count": 150,
       "by_protocol": {
-        "vless": 120,
-        "ss": 7,
-        "trojan": 19,
-        "vmess": 4
+        "vless": 107,
+        "ss": 10,
+        "trojan": 31,
+        "vmess": 2
       },
-      "avg_latency_ms": 1251.8
+      "avg_latency_ms": 776.7
     },
     "speed": {
       "count": 50,
       "by_protocol": {
-        "vless": 47,
-        "ss": 2,
-        "hy2": 1
+        "vless": 41,
+        "ss": 5,
+        "hy2": 1,
+        "vmess": 1,
+        "trojan": 2
       },
-      "avg_latency_ms": 294.4
+      "avg_latency_ms": 250.3
     },
     "good": {
-      "count": 81,
+      "count": 105,
       "by_protocol": {
-        "vless": 68,
-        "ss": 2,
-        "hy2": 10,
-        "trojan": 1
+        "vless": 87,
+        "ss": 7,
+        "hy2": 6,
+        "vmess": 2,
+        "trojan": 3
       },
-      "avg_latency_ms": 415.2
+      "avg_latency_ms": 393.6
     },
     "vless": {
-      "count": 134,
+      "count": 169,
       "by_protocol": {
-        "vless": 134
+        "vless": 169
       },
-      "avg_latency_ms": 1249.3
+      "avg_latency_ms": 1212.2
     },
     "vmess": {
       "count": 6,
       "by_protocol": {
         "vmess": 6
       },
-      "avg_latency_ms": 1936.3
+      "avg_latency_ms": 1372.8
     },
     "ss": {
-      "count": 8,
+      "count": 12,
       "by_protocol": {
-        "ss": 8
+        "ss": 12
       },
-      "avg_latency_ms": 2598.3
+      "avg_latency_ms": 861.2
     },
     "trojan": {
-      "count": 20,
+      "count": 31,
       "by_protocol": {
-        "trojan": 20
+        "trojan": 31
       },
-      "avg_latency_ms": 1071.8
+      "avg_latency_ms": 1032.6
     },
     "hy2": {
-      "count": 30,
+      "count": 32,
       "by_protocol": {
-        "hy2": 30
+        "hy2": 32
       },
-      "avg_latency_ms": 2553.8
+      "avg_latency_ms": 2602.5
     },
     "white": {
-      "count": 29,
+      "count": 31,
       "by_protocol": {
-        "vless": 25,
-        "hy2": 4
+        "vless": 28,
+        "hy2": 3
       },
-      "avg_latency_ms": 1772.4
+      "avg_latency_ms": 1308.4
     }
   },
-  "uploaded_at": "2026-10-10 11:37:55"
+  "uploaded_at": "2026-10-10 18:53:05"
 }
