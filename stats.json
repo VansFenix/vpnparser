@@ -1,133 +1,132 @@
 {
-  "checked_at": "2026-10-10 03:35:59",
-  "total": 356038,
-  "working": 207,
+  "checked_at": "2026-10-10 11:37:17",
+  "total": 355767,
+  "working": 198,
   "by_protocol": {
-    "vless": 130,
-    "ss": 10,
-    "trojan": 29,
-    "hy2": 28,
-    "vmess": 10
+    "vless": 134,
+    "ss": 8,
+    "hy2": 30,
+    "trojan": 20,
+    "vmess": 6
   },
   "by_country": {
-    "США": 57,
-    "Россия": 29,
-    "Германия": 11,
-    "Болгария": 10,
-    "Сингапур": 10,
+    "США": 40,
+    "Россия": 31,
+    "Германия": 14,
+    "Япония": 14,
     "Сербия": 9,
-    "Нидерланды": 7,
-    "Япония": 7,
-    "Польша": 6,
+    "Болгария": 8,
+    "Сингапур": 8,
+    "Гонконг": 8,
+    "Польша": 7,
+    "Нидерланды": 6,
     "Южная Корея": 6,
     "Финляндия": 5,
-    "Молдова": 5,
-    "Гонконг": 5,
-    "Великобритания": 4,
+    "Великобритания": 5,
     "Латвия": 4,
-    "Малайзия": 4,
-    "Швеция": 3,
-    "Турция": 3,
-    "Испания": 3,
-    "ОАЭ": 3,
-    "Армения": 3,
-    "Румыния": 2,
-    "Франция": 2,
-    "Казахстан": 2,
+    "Испания": 4,
+    "Эстония": 3,
+    "Румыния": 3,
+    "Молдова": 3,
+    "Сейшелы": 2,
+    "ОАЭ": 2,
     "Индия": 2,
-    "Сейшелы": 1,
+    "Малайзия": 2,
+    "Австралия": 2,
+    "Армения": 2,
+    "Италия": 1,
     "Австрия": 1,
+    "Франция": 1,
+    "Канада": 1,
+    "Турция": 1,
     "ЮАР": 1,
-    "Индонезия": 1,
-    "Таиланд": 1
+    "Швеция": 1,
+    "Индонезия": 1
   },
   "variants": {
     "all": {
-      "count": 207,
+      "count": 198,
       "by_protocol": {
-        "vless": 130,
-        "ss": 10,
-        "trojan": 29,
-        "hy2": 28,
-        "vmess": 10
+        "vless": 134,
+        "ss": 8,
+        "hy2": 30,
+        "trojan": 20,
+        "vmess": 6
       },
-      "avg_latency_ms": 963.2
+      "avg_latency_ms": 1504.4
     },
     "stable": {
       "count": 150,
       "by_protocol": {
-        "vless": 108,
-        "ss": 9,
-        "trojan": 27,
-        "vmess": 6
+        "vless": 120,
+        "ss": 7,
+        "trojan": 19,
+        "vmess": 4
       },
-      "avg_latency_ms": 861.5
+      "avg_latency_ms": 1251.8
     },
     "speed": {
       "count": 50,
       "by_protocol": {
-        "vless": 39,
-        "ss": 4,
-        "trojan": 1,
-        "hy2": 5,
-        "vmess": 1
+        "vless": 47,
+        "ss": 2,
+        "hy2": 1
       },
-      "avg_latency_ms": 232.4
+      "avg_latency_ms": 294.4
     },
     "good": {
-      "count": 114,
+      "count": 81,
       "by_protocol": {
-        "vless": 90,
-        "ss": 5,
-        "trojan": 4,
-        "hy2": 12,
-        "vmess": 3
+        "vless": 68,
+        "ss": 2,
+        "hy2": 10,
+        "trojan": 1
       },
-      "avg_latency_ms": 382.6
+      "avg_latency_ms": 415.2
     },
     "vless": {
-      "count": 130,
+      "count": 134,
       "by_protocol": {
-        "vless": 130
+        "vless": 134
       },
-      "avg_latency_ms": 787.2
+      "avg_latency_ms": 1249.3
     },
     "vmess": {
-      "count": 10,
+      "count": 6,
       "by_protocol": {
-        "vmess": 10
+        "vmess": 6
       },
-      "avg_latency_ms": 1520.7
+      "avg_latency_ms": 1936.3
     },
     "ss": {
-      "count": 10,
+      "count": 8,
       "by_protocol": {
-        "ss": 10
+        "ss": 8
       },
-      "avg_latency_ms": 1557.4
+      "avg_latency_ms": 2598.3
     },
     "trojan": {
-      "count": 29,
+      "count": 20,
       "by_protocol": {
-        "trojan": 29
+        "trojan": 20
       },
-      "avg_latency_ms": 1196.2
+      "avg_latency_ms": 1071.8
     },
     "hy2": {
-      "count": 28,
+      "count": 30,
       "by_protocol": {
-        "hy2": 28
+        "hy2": 30
       },
-      "avg_latency_ms": 1127.7
+      "avg_latency_ms": 2553.8
     },
     "white": {
-      "count": 31,
+      "count": 29,
       "by_protocol": {
-        "vless": 27,
+        "vless": 25,
         "hy2": 4
       },
-      "avg_latency_ms": 1232.8
+      "avg_latency_ms": 1772.4
     }
   },
-  "uploaded_at": "2026-10-10 03:36:35"
+  "uploaded_at": "2026-10-10 11:37:55"
 }
