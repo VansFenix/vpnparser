@@ -1,140 +1,136 @@
 {
-  "checked_at": "2026-10-11 00:28:43",
-  "total": 356347,
-  "working": 339,
+  "checked_at": "2026-10-11 08:18:39",
+  "total": 356413,
+  "working": 311,
   "by_protocol": {
-    "vless": 224,
-    "ss": 14,
-    "hy2": 42,
-    "vmess": 18,
-    "trojan": 41
+    "vless": 222,
+    "ss": 16,
+    "trojan": 38,
+    "hy2": 24,
+    "vmess": 11
   },
   "by_country": {
-    "США": 62,
-    "Россия": 46,
-    "Германия": 27,
-    "Сингапур": 26,
-    "Япония": 24,
+    "США": 45,
+    "Россия": 41,
+    "Германия": 34,
     "Нидерланды": 20,
-    "Южная Корея": 14,
-    "Польша": 13,
-    "Финляндия": 10,
+    "Япония": 20,
+    "Сингапур": 14,
+    "Эстония": 12,
+    "Польша": 12,
+    "Южная Корея": 11,
     "Сербия": 9,
-    "Гонконг": 9,
     "Болгария": 8,
-    "Сейшелы": 6,
+    "Франция": 7,
+    "Гонконг": 7,
+    "Финляндия": 6,
     "Великобритания": 6,
     "Латвия": 6,
+    "Кипр": 6,
     "Армения": 5,
-    "Швеция": 5,
-    "Молдова": 4,
+    "Молдова": 5,
+    "Швеция": 4,
+    "ОАЭ": 4,
     "Малайзия": 4,
-    "ОАЭ": 3,
-    "Франция": 3,
+    "Австрия": 3,
     "Испания": 3,
-    "Кипр": 3,
-    "Индия": 3,
-    "Эстония": 2,
+    "Сейшелы": 3,
     "Румыния": 2,
-    "Австрия": 2,
     "Ирландия": 2,
+    "Индия": 2,
     "ЮАР": 2,
+    "Тайвань": 2,
     "Италия": 1,
     "Турция": 1,
-    "Канада": 1,
-    "Казахстан": 1,
-    "Таиланд": 1,
-    "Иран": 1,
-    "Австралия": 1,
     "Словакия": 1,
-    "Тайвань": 1,
-    "Индонезия": 1
+    "Таиланд": 1,
+    "Индонезия": 1,
+    "Канада": 1
   },
   "variants": {
     "all": {
-      "count": 339,
+      "count": 311,
       "by_protocol": {
-        "vless": 224,
-        "ss": 14,
-        "hy2": 42,
-        "vmess": 18,
-        "trojan": 41
+        "vless": 222,
+        "ss": 16,
+        "trojan": 38,
+        "hy2": 24,
+        "vmess": 11
       },
-      "avg_latency_ms": 800.7
+      "avg_latency_ms": 1091.8
     },
     "stable": {
       "count": 150,
       "by_protocol": {
-        "vless": 137,
-        "ss": 7,
-        "vmess": 3,
-        "trojan": 3
+        "vless": 132,
+        "ss": 9,
+        "trojan": 6,
+        "vmess": 3
       },
-      "avg_latency_ms": 349.7
+      "avg_latency_ms": 448.3
     },
     "speed": {
       "count": 50,
       "by_protocol": {
         "vless": 44,
-        "ss": 5,
-        "hy2": 1
+        "ss": 6
       },
-      "avg_latency_ms": 190.8
+      "avg_latency_ms": 204.9
     },
     "good": {
-      "count": 191,
+      "count": 156,
       "by_protocol": {
-        "vless": 153,
-        "ss": 7,
-        "hy2": 21,
-        "vmess": 6,
-        "trojan": 4
+        "vless": 134,
+        "ss": 9,
+        "trojan": 4,
+        "hy2": 5,
+        "vmess": 4
       },
-      "avg_latency_ms": 372.8
+      "avg_latency_ms": 380.0
     },
     "vless": {
-      "count": 224,
+      "count": 222,
       "by_protocol": {
-        "vless": 224
+        "vless": 222
       },
-      "avg_latency_ms": 733.0
+      "avg_latency_ms": 940.5
     },
     "vmess": {
-      "count": 18,
+      "count": 11,
       "by_protocol": {
-        "vmess": 18
+        "vmess": 11
       },
-      "avg_latency_ms": 1031.7
+      "avg_latency_ms": 1119.6
     },
     "ss": {
-      "count": 14,
+      "count": 16,
       "by_protocol": {
-        "ss": 14
+        "ss": 16
       },
-      "avg_latency_ms": 776.5
+      "avg_latency_ms": 1102.5
     },
     "trojan": {
-      "count": 41,
+      "count": 38,
       "by_protocol": {
-        "trojan": 41
+        "trojan": 38
       },
-      "avg_latency_ms": 1101.6
+      "avg_latency_ms": 1088.1
     },
     "hy2": {
-      "count": 42,
+      "count": 24,
       "by_protocol": {
-        "hy2": 42
+        "hy2": 24
       },
-      "avg_latency_ms": 777.1
+      "avg_latency_ms": 2477.4
     },
     "white": {
-      "count": 46,
+      "count": 41,
       "by_protocol": {
-        "vless": 43,
-        "hy2": 3
+        "vless": 37,
+        "hy2": 4
       },
-      "avg_latency_ms": 581.5
+      "avg_latency_ms": 924.7
     }
   },
-  "uploaded_at": "2026-10-11 00:29:21"
+  "uploaded_at": "2026-10-11 08:19:17"
 }
